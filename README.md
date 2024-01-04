@@ -34,14 +34,14 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
   * pandas
   * numpy
   * fastqc
-  * trimmonmatic
+  * Trimmomatic 
   * HISAT2
   * featurecount
   * samtools
 
 * Analysis steps
   * FASTQC: raw data fastq is first inspected using fastqc
-  * Trimmonmatic: poor quality data is trimmed using trimmonmatic (setting: slider=5:20 and minilen=60)
+  * Trimmomatic: poor quality data is trimmed using trimmonmatic (setting: slider=5:20 and minilen=60)
   * HISAT2: an index for each specie is built using HISAT2 build
   * HISAT2: index is combined with good fastq raw data to create alignment via HISAT2 align
   * samstool: alignment duplicates are removed using samstool
