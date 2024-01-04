@@ -10,7 +10,7 @@ All demo can be seen in our google colab file. you can access it through this li
 Some code are also included in the code folder in this github.
 
 ## Folder organization and its related information
-idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Projects.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) PLoS Comput Biol 5(7): e1000424.
+
 
 ### docs
 * Link to our presentation: https://docs.google.com/presentation/d/1k-tbWFHo_nz2NUWr08uH6-WYRZBKNSSRH3a2a6hVqhg/edit?usp=sharing
