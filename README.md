@@ -1,15 +1,11 @@
-# Title of your paper
+# Expression Divergence of Chemosensory Genes between Drosophila sechellia and Its Sibling Species and Its Implications for Host Shift
 ### Members
-* name, student ID1
-* name, student ID2
-* name, student ID3
-* ...
+* Christofer Julio, 111761502
+* Zihao Chen, 112753141
+
 
 ### Demo 
-You might provide an example command or a few commands to reproduce your analysis, i.e., the following R script
-```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
-```
+All demo can be seen in our google colab file. you can access it through this link 
 
 ## Folder organization and its related information
 idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Projects.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) PLoS Comput Biol 5(7): e1000424.
