@@ -5,7 +5,9 @@
 
 
 ### Demo 
-All demo can be seen in our google colab file. you can access it through this link 
+All demo can be seen in our google colab file. you can access it through this link: https://colab.research.google.com/drive/1UpYAeomi8N6ipwvdgJVGeZEg5SlXL29r?usp=sharing. 
+
+Some code are also included in the code folder in this github.
 
 ## Folder organization and its related information
 idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Projects.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) PLoS Comput Biol 5(7): e1000424.
@@ -14,7 +16,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * Link to our presentation: https://docs.google.com/presentation/d/1k-tbWFHo_nz2NUWr08uH6-WYRZBKNSSRH3a2a6hVqhg/edit?usp=sharing
 
 * Any related document for the project?
-  * There are currently no Other Related Documents
+  * There are currently no other related documents
 
 ### data (do not upload fastq file)
 #### Raw RNA Files:
@@ -25,9 +27,10 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 #### Other Files:
 * Source: https://ftp.flybase.org/genomes/
 * Format: gtf,gff,Fasta
-* Size: approx ~600 GB
+* Size: approx ~600 MB
 
 ### code
+* Link to our collab: https://colab.research.google.com/drive/1UpYAeomi8N6ipwvdgJVGeZEg5SlXL29r?usp=sharing
 * Which packages do you use? 
   * matplotlib
   * seaborn
@@ -52,7 +55,6 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 ### results
 * Which part of the paper do you reproduce?
   * Gene FPKM table
-  * Gene Heatmaps
 * Any improvement or change in your package?
   * We have to use brand new tools in every way because old tools are often outdated and no longer work in the current version of python 3
 
